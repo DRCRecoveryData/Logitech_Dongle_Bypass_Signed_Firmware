@@ -1,10 +1,10 @@
 # Logitech Dongle Bypass Signed Firmware
 
-This repository contains signed firmware for bypassing security measures on Logitech CU-007 dongles, enabling advanced functionality and customization.
+This repository contains signed firmware for bypassing security measures on Logitech C-U0007 dongles, enabling advanced functionality and customization.
 
 ## Flashing Instructions
 
-To flash the signed firmware onto your Logitech CU-007 dongle, follow these steps:
+To flash the signed firmware onto your Logitech C-U0007 dongle, follow these steps:
 
 1. Connect your Raspberry PI 4 to the nRF24LU1+ chip as described in the [Pin Connections](#pin-connections) section.
 2. Download the latest version of the signed firmware from the [Releases](https://github.com/yourusername/Logitech_Dongle_Bypass_Signed_Firmware/releases) page.
