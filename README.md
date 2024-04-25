@@ -1,8 +1,12 @@
 # Logitech Dongle Bypass Signed Firmware
 
+![Image](https://github.com/DRCRecoveryData/Logitech_Dongle_Bypass_Signed_Firmware/blob/main/Images/IMG_0263.png)
+
 This repository contains signed firmware for bypassing security measures on Logitech C-U0007 dongles, enabling advanced functionality and customization.
 
 ## Flashing Instructions
+
+![Image](https://github.com/DRCRecoveryData/Logitech_Dongle_Bypass_Signed_Firmware/blob/main/Images/IMG_0264.png)
 
 To flash the signed firmware onto your Logitech C-U0007 dongle, follow these steps:
 
