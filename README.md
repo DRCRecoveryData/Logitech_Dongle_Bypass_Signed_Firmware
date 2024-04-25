@@ -41,3 +41,4 @@ You can connect the following pins between the Raspberry PI 4 and the nRF24LU1+:
 - [nrf24lu1p-512-bootloader](https://github.com/ahtn/nrf24lu1p-512-bootloader)
 - [MouseJack](https://saturn.ffzg.hr/rot13/index.cgi?action=display_html;page_name=nrf24lu1)
 - [Flash Logitech C-U0007](https://hackaday.io/project/6741-crazyradio-for-cheapskates)
+- [nrf24lu1 usb dongle](https://www.bartslinger.com/electronics/nrf24lu1-usb-dongle/)
