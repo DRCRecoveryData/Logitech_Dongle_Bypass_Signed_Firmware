@@ -22,7 +22,7 @@ You can connect the following pins between the Raspberry PI 4 and the nRF24LU1+:
 
 ![image](https://github.com/DRCRecoveryData/Logitech_Dongle_Bypass_Signed_Firmware/assets/85211068/01aca9c3-f60b-4077-9124-812b58639f62)
 
-![image](https://github.com/DRCRecoveryData/Logitech_Dongle_Bypass_Signed_Firmware/assets/85211068/7a66f548-f550-4f8c-bf75-4ccbe78a0453)
+![image](https://github.com/DRCRecoveryData/Logitech_Dongle_Bypass_Signed_Firmware/assets/85211068/0538e4e4-8456-46d8-8b11-bd86a554535c)
 
 
 | Name  | Raspberry PI 4 Pin | nRF24LU1+ Pin |
