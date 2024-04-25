@@ -20,6 +20,11 @@ To flash the signed firmware onto your Logitech C-U0007 dongle, follow these ste
 
 You can connect the following pins between the Raspberry PI 4 and the nRF24LU1+:
 
+![image](https://github.com/DRCRecoveryData/Logitech_Dongle_Bypass_Signed_Firmware/assets/85211068/01aca9c3-f60b-4077-9124-812b58639f62)
+
+![image](https://github.com/DRCRecoveryData/Logitech_Dongle_Bypass_Signed_Firmware/assets/85211068/7a66f548-f550-4f8c-bf75-4ccbe78a0453)
+
+
 | Name  | Raspberry PI 4 Pin | nRF24LU1+ Pin |
 |-------|---------------------|--------------|
 | GND   | 6                   | GND          |
@@ -35,3 +40,4 @@ You can connect the following pins between the Raspberry PI 4 and the nRF24LU1+:
 - [nRF24LU1P_SPI_Flashing](https://github.com/ShigemoriHakura/nRF24LU1P_SPI_Flashing)
 - [nrf24lu1p-512-bootloader](https://github.com/ahtn/nrf24lu1p-512-bootloader)
 - [MouseJack](https://saturn.ffzg.hr/rot13/index.cgi?action=display_html;page_name=nrf24lu1)
+- [Flash Logitech C-U0007](https://hackaday.io/project/6741-crazyradio-for-cheapskates)
